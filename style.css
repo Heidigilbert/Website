@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(11, 1, 10, 0.012);
+}
+
+li {
+    border: solid rgb(233, 223, 223) 1px;
+    display: inline;
+    background-color: rgb(8, 8, 6);
+    color: white;
+    padding: 10px;
+    margin: 5px 50px 0px 50px;
+}
+
+header {
+    text-align: center;
+
+}
+
+h1, #top_p{
+    color: rgb(123, 255, 0);
+}
+
+nav {
+    background-color: rgb(255, 0, 157);
+}
+
+section , h2, h3{
+    border: solid black 2px;s
+}
+
+p {
+    color: cyan;
+    background-color: white;
+}
+
+#top_section {
+    text-align: center;
+}
+
+#hero {
+    width: 90%;
+}
